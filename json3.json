@@ -1,0 +1,23 @@
+{
+  "symbol": "LTCUSD",
+  "priceChange": "-2.9100",
+  "priceChangePercent": "-2.353",
+  "weightedAvgPrice": "119.2112",
+  "prevClosePrice": "123.9900",
+  "lastPrice": "120.7700",
+  "lastQty": "0.96529000",
+  "bidPrice": "120.7700",
+  "bidQty": "4.00000000",
+  "askPrice": "120.8700",
+  "askQty": "1.00000000",
+  "openPrice": "123.6800",
+  "highPrice": "123.9800",
+  "lowPrice": "114.8800",
+  "volume": "31469.99096000",
+  "quoteVolume": "3751575.7233",
+  "openTime": 1645106830133,
+  "closeTime": 1645193230133,
+  "firstId": 5410556,
+  "lastId": 5416344,
+  "count": 5789
+}

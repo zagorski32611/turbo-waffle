@@ -1,0 +1,16 @@
+https://api.binance.us/sapi/v1/asset/dust?
+recvWindow=10000
+&timestamp=1645068430917
+&asset=USDT
+&asset=ADA
+&asset=XLM
+&asset=ZRX
+&asset=ALGO
+&asset=BUSD
+&asset=VET
+&asset=MANA
+&asset=HNT
+&asset=STORJ
+&asset=ANKR
+&asset=1INCH
+&signature=fd37bead5106f2c351fb4138805b87735715a89a4cd24c0d16277603f27b03f4
